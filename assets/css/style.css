@@ -756,6 +756,14 @@ section {
 /*--------------------------------------------------------------
 # Custom
 --------------------------------------------------------------*/
+.upcoming{
+  text-align: center;
+  border-bottom: 5px dashed black;
+  border-top: 5px dashed black;
+}
+.upcoming h2{
+  font-size: 400%;
+}
 .hero h2{
   margin-top: 50px;
 }
